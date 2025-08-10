@@ -5,6 +5,10 @@
 > [!NOTE]
 > You have to first install robotarium_python_simulator-master.zip by `pip install .` with `matplotlib==3.7.3`.
 
+https://github.com/user-attachments/assets/96e8852a-2e1b-46f0-afbb-5ff59dec3bba
+
+https://github.com/user-attachments/assets/6052e066-b00e-4928-9078-5ffd7386b9ec
+
 # Predator-Prey Game: Structure and Objectives
 
 This simulation outlines a classic **pursuit-evasion game** set in a 2D environment. It's designed to test control algorithms and artificial intelligence in a dynamic, competitive scenario.
