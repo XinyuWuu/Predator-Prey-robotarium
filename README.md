@@ -1,17 +1,10 @@
-> [!NOTE]
-> Original environment from https://github.com/robotarium/robotarium_python_simulator
-> modified by HITSZ ML Lab.
+# Predator-Prey Game: Structure and Objectives
 
-> [!NOTE]
-> You have to first install robotarium_python_simulator-master.zip by `pip install .` with `matplotlib==3.7.3`.
+This simulation outlines a classic **pursuit-evasion game** set in a 2D environment. It's designed to test control algorithms and artificial intelligence in a dynamic, competitive scenario.
 
 https://github.com/user-attachments/assets/96e8852a-2e1b-46f0-afbb-5ff59dec3bba
 
 https://github.com/user-attachments/assets/6052e066-b00e-4928-9078-5ffd7386b9ec
-
-# Predator-Prey Game: Structure and Objectives
-
-This simulation outlines a classic **pursuit-evasion game** set in a 2D environment. It's designed to test control algorithms and artificial intelligence in a dynamic, competitive scenario.
 
 ## Agents and Objectives 🤖
 
@@ -23,6 +16,13 @@ The game involves two agents with conflicting goals:
 ---
 
 ## The Environment 🗺️
+
+> [!NOTE]
+> Original environment from https://github.com/robotarium/robotarium_python_simulator
+> modified by HITSZ ML Lab.
+
+> [!NOTE]
+> You have to first install robotarium_python_simulator-master.zip by `pip install .` with `matplotlib==3.7.3`.
 
 The agents operate within a well-defined space with several key features:
 
